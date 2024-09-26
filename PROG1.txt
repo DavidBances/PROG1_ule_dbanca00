@@ -1,0 +1,10 @@
+diccionario - https://dle.rae.es/diccionario
+ordenador - https://dle.rae.es/ordenador?m=form
+escudo - https://dle.rae.es/escudo?m=form
+asociación - https://dle.rae.es/asociaci%C3%B3n
+caja - https://dle.rae.es/caja?m=form
+cofre - https://dle.rae.es/cofre?m=form
+móvil - https://dle.rae.es/m%C3%B3vil
+enchufe - https://dle.rae.es/enchufe?m=form
+comida - https://dle.rae.es/comida?m=form
+vendaval - https://dle.rae.es/vendaval?m=form
